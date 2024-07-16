@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maks-moses
 - 👀 I’m interested in tech in general so i'm a tech nerd 
-- 🌱 I’m currently learning react, django, java, Data structure and algorithm
+- 🌱 I’m currently learning react, django, Data structure and algorithm
 - 💞️ I’m looking to collaborate on new react djangoproject 
 - 📫 How to reach me mosesgodsonpower@gmail.com
 
