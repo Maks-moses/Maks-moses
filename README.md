@@ -8,7 +8,7 @@ I’m a passionate software engineer with over 2 years of hands-on experience bu
 
 🧠 What I Do
 	•	⚙️ Frontend: React.js, Next.js, TypeScript, Tailwind CSS, ShadCN UI, React-native
-	•	🧩 Backend: Node.js, Express, Django, Prisma, PostgreSQL
+	•	🧩 Backend: Node.js, NestJS, Django, Prisma, PostgreSQL
 	•	☁️ Other Tools & Skills: Redux Toolkit, REST APIs, Git/GitHub, Docker, Figma
 	•	💡 Special interests: System design, UI/UX, fintech & edtech solutions
 
