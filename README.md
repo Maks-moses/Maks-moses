@@ -2,7 +2,7 @@
 
 🚀 Full-Stack Developer | Tech Consultant | Problem Solver
 
-I’m a passionate software engineer with over 2 years of hands-on experience building modern, scalable web and mobile applications. I specialize in crafting clean, efficient, and user-focused digital solutions that bridge functionality and design.
+I’m a passionate software engineer with over 3 years of hands-on experience building modern, scalable web and mobile applications. I specialize in crafting clean, efficient, and user-focused digital solutions that bridge functionality and design.
 
 ⸻
 
