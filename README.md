@@ -1,36 +1,50 @@
-👋 Hey there, I’m Moses Maks
+# Hi, I'm Moïse Makoso 👋
 
-🚀 Full-Stack Developer | Tech Consultant | Problem Solver
+**Full-Stack Engineer** — TypeScript · Next.js · NestJS · React Native
+📍 Kinshasa, DRC · 🌍 Remote-ready (UTC+1) · 🇬🇧 English (C1) / 🇫🇷 French
 
-I’m a passionate software engineer with over 3 years of hands-on experience building modern, scalable web and mobile applications. I specialize in crafting clean, efficient, and user-focused digital solutions that bridge functionality and design.
+I build and ship production web and mobile products end to end: from design to App Store / Play Store release, APIs, databases and deployment. 3+ years of experience, with a focus on **African markets** and **mobile money payments**.
 
-⸻
+---
 
-🧠 What I Do
-	•	⚙️ Frontend: React.js, Next.js, TypeScript, Tailwind CSS, ShadCN UI, React-native
-	•	🧩 Backend: Node.js, NestJS, Django, Prisma, PostgreSQL
-	•	☁️ Other Tools & Skills: Redux Toolkit, REST APIs, Git/GitHub, Docker, Figma
-	•	💡 Special interests: System design, UI/UX, Architecture 
+## 🚀 Shipped work
 
-⸻
+**[Mlinzi](https://apps.apple.com/cd/app/mlinzi/id6751038578)** — Visitor & access management platform *(Ukuaji Tech)*
+- In production, used by **Orion RDC**
+- MVP built in ~5 weeks by a 2-person team
+- I built nearly all of the end-user mobile app, from design to first App Store release, plus parts of the guard app and backend
+- Integrated with Hikvision door hardware on site
 
-🤝 What I’m Looking For
+**Koto-Moto** — Loyalty platform for moto-taxi drivers *(Ukuaji Tech, in testing)*
+- Rider app (~90%), agent POS app and admin dashboard (~50% each)
+- Fingerprint validation of fuel sales on the API to stop fake loyalty points
+- Payments via the **MaxiCash** mobile money aggregator
 
-I love collaborating on impact-driven projects—especially those that challenge me to think deeply about scalability, performance, and user experience.
-If you’re working on something exciting, let’s connect!
+**Ribrid-Auto** — Buyer/seller automotive app *(freelance, in testing)*
+- Mobile money via **PawaPay**, deployed on a VPS
 
-⸻
+**Afromadia** — Multi-vendor agricultural marketplace *(client project)*
+- Built solo end to end, with a real-time cart
 
-📫 Get in Touch
-	•	💼 LinkedIn 
-https://cd.linkedin.com/in/mo%C3%AFse-mak-s-b62b05223
-	•	✉️ Email: mosesgodsonpower@gmail.com
-⸻
+**Kinflix** — African streaming platform *(my own startup, in progress)*
 
-⚡ Fun Fact
+---
 
-When I’m not coding, you’ll probably find me experimenting with new tech tools, mentoring beginners, or playing guitar 🎸.
-<!---
-Maks-moses/Maks-moses is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🧰 Stack
+
+| Area | Tools |
+|---|---|
+| Frontend | React, Next.js (App Router), TypeScript, Tailwind CSS, shadcn/ui, design systems |
+| Mobile | React Native — published on App Store & Google Play |
+| Backend | Node.js, NestJS, Prisma, PostgreSQL |
+| DevOps | Azure | AWS | Docker, Turborepo monorepos, VPS deployment |
+| Payments | Mobile money (PawaPay, MaxiCash) |
+
+---
+
+## 📫 Contact
+
+- 🌐 Portfolio: [moses-maks.site](https://moses-maks.site)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mo%C3%AFse-maks)
+- ✉️ your.name@email.com
+- 🟢 Open to remote full-stack / React Native roles and freelance projects
