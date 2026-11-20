@@ -1,4 +1,4 @@
-# Hi, I'm Moïse Makoso 👋
+# Hi, I'm Moïse Maks 👋
 
 **Full-Stack Engineer** — TypeScript · Next.js · NestJS · React Native
 📍 Kinshasa, DRC · 🌍 Remote-ready (UTC+1) · 🇬🇧 English (C1) / 🇫🇷 French
@@ -37,7 +37,7 @@ I build and ship production web and mobile products end to end: from design to A
 | Frontend | React, Next.js (App Router), TypeScript, Tailwind CSS, shadcn/ui, design systems |
 | Mobile | React Native — published on App Store & Google Play |
 | Backend | Node.js, NestJS, Prisma, PostgreSQL |
-| DevOps | Azure | AWS | Docker, Turborepo monorepos, VPS deployment |
+| DevOps | Docker, Turborepo monorepos, VPS deployment |
 | Payments | Mobile money (PawaPay, MaxiCash) |
 
 ---
@@ -46,5 +46,5 @@ I build and ship production web and mobile products end to end: from design to A
 
 - 🌐 Portfolio: [moses-maks.site](https://moses-maks.site)
 - 💼 [LinkedIn](https://www.linkedin.com/in/mo%C3%AFse-maks)
-- ✉️ your.name@email.com
+- ✉️ mosesmaks243@gmail.com
 - 🟢 Open to remote full-stack / React Native roles and freelance projects
